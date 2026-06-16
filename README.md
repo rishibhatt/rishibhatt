@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:ff3cac&height=200&section=header&text=Rishab%20Bhatt&fontSize=40&fontColor=ffffff"/>
 # 👋 Hey, I'm Rishab Bhatt
 
 🚀 Senior Software Engineer | AI Product Builder  
