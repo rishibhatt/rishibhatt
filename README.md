@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rishab Bhatt
 
-🚀 Senior Software Engineer | AI Product Builder  
+🚀 Senior Software Engineer | Frontend Developer | AI Product Builder  
 ⚡ Building scalable platforms & AI-native products  
 🧠 Focused on frontend architecture, GenAI & system design  
 
