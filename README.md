@@ -50,7 +50,7 @@
 ## 🧠 What I Do
 
 - 🏗️ Architect scalable frontend systems (React / Next.js)
-- ⚡ Optimize performance for large-scale applications
+- ⚡ Optimize performance for large-scale web applications
 - 🤖 Build AI-powered UX using LLMs & RAG
 - 🎯 Translate product ideas into production-ready systems
 
