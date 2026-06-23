@@ -164,13 +164,6 @@ const rishab = {
 
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-<a href="https://github.com/rishibhatt">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishibhatt&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</a>
-</div>
 
 ### 📈 Contribution Activity
 
